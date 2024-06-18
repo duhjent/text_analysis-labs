@@ -1,3 +1,11 @@
 venv/
 .ipynb_checkpoints/
+.vscode/
 *.dat
+*.zip
+*.jl
+lab2/data
+lab2/models
+lab3/data
+lab4/data
+rgr/data
